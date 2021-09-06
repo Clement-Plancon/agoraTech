@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1000px" height="800px" viewBox="0 0 1000 800" enable-background="new 0 0 1000 800" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M900.266,666.666c0,73.334-60,133.334-133.333,133.334H233.599c-73.333,0-133.333-60-133.333-133.334
+			V133.333C100.266,60,160.266,0,233.599,0h533.333c73.334,0,133.334,60,133.334,133.333V666.666z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<rect x="0.266" y="0" fill="#2FAD38" width="500" height="800"/>
+		<rect x="500.266" y="0" fill="#34C642" width="500" height="800"/>
+	</g>
+</g>
+<image overflow="visible" width="2100" height="1498" xlink:href="../../../Pictures/Imagerie/Dossier projet/projet/Logo site web2.png"  transform="matrix(0.7199 0 0 0.7199 -287.8789 -125.3806)">
+</image>
+</svg>
